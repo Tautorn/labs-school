@@ -1,0 +1,17 @@
+.button {
+  color: '#fff';
+  height: 40px;
+  padding: 10px;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
